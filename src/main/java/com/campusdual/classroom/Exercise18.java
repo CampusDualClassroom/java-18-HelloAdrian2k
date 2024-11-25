@@ -1,6 +1,6 @@
 package com.campusdual.classroom;
 
-import static com.campusdual.util.Utils.*;
+import static com.campusdual.util.Utils.integer;
 
 public class Exercise18 {
 
